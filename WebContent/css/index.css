@@ -1,0 +1,329 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+#top{
+	width:100%;
+	margin:0px auto; 
+	height:39px; 
+	background-color: #F2F2F2;
+}
+#top #top_div{
+	width:1230px;
+	margin:0px auto;
+	height:39px; 
+	font-size:15px; 
+	letter-spacing:1px;
+	font-family:"楷体";
+	color: #666666;
+}
+#top #top_div #welcome{
+	height:32px; 
+	float:left;
+	width:150px;
+	margin-top:13px;
+}
+#top #top_div #login{
+	height:32px; 
+	float:left;
+	width:150px;
+	margin-top:13px; 
+	text-align:right;
+}
+#top #top_div #register{
+	height:32px; 
+	float:left;
+	width:50px;
+	margin-top:13px; 
+	text-align:right;
+}
+#top #top_div #my_taobao{
+	height:32px; 
+	float:right;
+	width:85px;
+	margin-top:13px; 
+	text-align:right;
+}
+
+#top #top_div #gouwuche{
+	height:32px; 
+	float:right;
+	width:85px;
+	margin-top:13px; 
+	text-align:right;
+}
+
+#top #top_div #guanzhu{
+	height:32px; 
+	float:right;
+	width:85px;
+	margin-top:13px; 
+	text-align:right;
+}
+#head{
+	width:1230px;
+	height:130px;
+	margin:0px auto;
+}
+#head #logo{
+	float:left;
+	width:184px;
+	height:100px;
+	margin-top:10px;
+	background:url(../img/index_img/indexbook.jpg);
+}
+#head #search{
+	float:right;
+	width:600px;
+	height:120px;
+	margin-top:10px;
+	margin-right: 100px;
+}
+#head #extra{
+	float:right;
+	width:200px;
+	height:110px;
+	margin-top:10px;
+	background: url(../img/index_img/haha.jpg) no-repeat;
+}
+#search_top{
+	width:600px;
+	height:78px;
+}
+
+#search_top form p #txtSearch{
+	width:360px;
+	height:37px;
+	border:1px solid #DD2727; 
+	margin-top: 28px;
+	margin-right: 0px;
+	padding-right: 0px;
+	float: left;
+	font-size: 20px;
+}
+#search_top form p #btnsearchbook{
+	width:130px;
+	height:39px;
+	margin-top: 28px;
+	margin-left: 0px;
+	padding-left: 0px;
+	float: left;
+	background-color: #DD2727;
+	color: #FFFFFF;
+	font-size: 20px;
+}
+
+
+
+#search_bottom {
+	width:600px;
+	height:30px;
+}
+#search_bottom ul li{
+	
+	width: 50px;
+	float:left;
+	margin-right: 15px; 
+	list-style:none;
+	color: #888888;
+	
+}
+
+#main{
+	width:100%;
+	margin:0px auto; 
+	height:500px; 
+}
+#main_top{
+	width:100%;
+	margin:0px auto; 
+	height:50px;
+}
+#items{
+	width:1230px;
+	margin:0px auto;
+	height:50px; 
+	font-size:15px; 
+	letter-spacing:1px;
+	font-family:"楷体";
+	background-color: #DD2727;
+}
+#fenlei{
+	width:150px;
+	margin:0px auto;
+	height:38px; 
+	float: left;
+	color: #FFFFFF;
+	font-size: 24px;
+	padding-top: 12px;
+	padding-left: 30px;
+	background-color: #C60A0A;
+}
+.item{
+	width:1050px;
+	margin:0px auto;
+	height:38px; 
+	float: left;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 24px;
+	padding-top: 12px;
+	background-color: #DD2727;
+}
+#main_center{
+	width:100%;
+	margin:0px auto; 
+	height:450px;
+}
+#main_center_body{
+	width:1230px;
+	margin:0px auto;
+	height:450px; 
+	font-size:16px; 
+	letter-spacing:1px;
+	font-family:"楷体";
+}
+#list_ads{
+	width:1230px;
+	margin:0px auto;
+	height:450px; 
+}
+#goods_list{
+	width: 180px;
+	margin:0px auto;
+	height:450px; 
+	float:left;
+}
+.good_item{
+	width: 150px;
+	margin:0px auto;
+	font-size:25px; 
+	height:50px;
+	float:left;
+	padding-left: 30px;
+	background-color: #F2F2F2;
+	padding-top: 25px;
+}
+#ads_area{
+	width: 1050px;
+	height: 450px;
+	float: left;
+	
+}
+#ads{
+	width: 900px;
+	height: 450px;
+	float: left;
+	
+}
+.writespace{
+	clear: both;
+	width: 100%;
+	height: 0px;
+}
+
+.ca1{
+	line-height:75px;
+	text-align:center;
+	height:75px;
+	width:60px;
+}
+.ca2{
+	line-height:75px;
+	text-align:center;
+	height:75px;
+	width:60px;
+}
+.ca3{
+	line-height:75px;
+	text-align:center;
+	height:75px;
+	width:60px;
+}
+.ca4{
+	line-height:75px;
+	text-align:center;
+	height:75px;
+	width:60px;
+}
+.ca5{
+	line-height:75px;
+	text-align:center;
+	height:75px;
+	width:60px;
+}
+.ca6{
+	line-height:75px;
+	text-align:center;
+	height:75px;
+	width:60px;
+}
+.booklist{
+	height:65px;
+	width:900px;
+	
+}
+.bookname{
+	height:65px;
+	width:150px;
+	float:left;
+	line-height: 75px;
+	text-align:center;
+	
+}
+.bookprice{
+	height:65px;
+	width:150px;
+	float:left;
+	line-height: 75px;
+	text-align:center;
+}
+.bookauthor{
+	height:65px;
+	width:150px;
+	float:left;
+	line-height: 75px;
+	text-align:center;
+}
+
+.bookpress{
+	height:65px;
+	width:150px;
+	float:left;
+	line-height: 75px;
+	text-align:center;
+}
+.bookpublishtime{
+	height:65px;
+	width:150px;
+	float:left;
+	line-height: 75px;
+	text-align:center;
+}
+#adsother{
+	height:450px;
+	width:150px;
+	float:left;
+	background:url(../img/index_img/bookgirl.jpg);
+	
+}
+.ckxq{
+	height:65px;
+	width:150px;
+	float:left;
+	line-height: 75px;
+	text-align:center;
+}
+#fenye{
+	height:60px;
+	width:900px;
+	line-height: 60px;
+	text-align:center;
+}
+a{
+	text-decoration: none;
+	
+}
+a:link{
+	color: #000000;
+}

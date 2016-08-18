@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//WebContent/js/ajaxupload.js=UTF-8
+encoding//WebContent/js/bookdetails.js=UTF-8
+encoding//WebContent/js/doSellerRegisterJs.js=UTF-8
+encoding//WebContent/js/doUserRegisterJs.js=UTF-8
+encoding//WebContent/js/doUserpasswordJs.js=UTF-8
+encoding//src/com/bookmall/bean/Category.java=UTF-8
+encoding//src/com/bookmall/bean/Order.java=UTF-8
+encoding//src/com/bookmall/controller/doSellerRegisterServlet.java=UTF-8
+encoding//src/com/bookmall/controller/doSellerloginServlet.java=UTF-8
+encoding//src/com/bookmall/controller/doUserRegisterServlet.java=UTF-8
+encoding//src/com/bookmall/controller/doUserloginServlet.java=UTF-8
+encoding//src/com/bookmall/controller/dodeleteSellerServlet.java=UTF-8
+encoding//src/com/bookmall/controller/dologinServlet.java=UTF-8
+encoding//src/com/bookmall/controller/saveimagServlet.java=UTF-8
+encoding/<project>=UTF-8

@@ -1,0 +1,156 @@
+body {
+    background-color: #eae5e5;
+}
+
+.header {
+    height: 70px;
+    background-image: url(../img/shop_img/topbg.png);
+    color: white;
+    font-weight: bold;
+    position: relative;
+}
+
+.logo {
+    position: absolute;
+    left: 1%;
+    width: 5%;
+}
+
+.logo-title {
+    display: inline-block;
+    margin-left: 7%;
+    font-size: 1.8em;
+    font-weight: bold;
+    line-height: 70px;
+}
+
+.loginout, .loginout:hover, .loginout:visited {
+    color: white;
+    text-decoration: none;
+}
+
+.loginout, .loginout:hover, .loginout:visited {
+    color: white;
+    text-decoration: none;
+}
+
+
+.mymsg, .mymsg:hover, .mymsg:visited {
+    color: white;
+    text-decoration: none;
+}
+
+.caret {
+    margin-top: 13px !important;
+}
+
+
+.inline {
+    position:absolute;
+    right: 20px;
+    top: 20px;
+    font-size: 20px;
+    float: right;
+}
+
+.nav {
+    background-image: url(../img/shop_img/navbg.png);
+    margin:0;
+    padding-left: 0;
+    border-bottom: 1px solid #d3d1d1;
+}
+.nav-icon{
+	 background-image: url(../img/shop_img/navbg.png);
+	 margin-left: 220px;
+	 font-size:20px ;
+}
+
+.breadcrumb {
+    margin: 0;
+    background-color: none !important;
+}
+
+.date {
+    display: inline-block;
+}
+.memu{
+	width: 800px;height:500px;margin:auto;
+}
+.content {
+    margin-top: 5px;
+    padding: 0;
+}
+
+.content-left {
+    border: 1px solid #d3d1d1;
+    background-color: #fff;
+    height: 700px;
+   
+}
+
+.content-right {
+	width:650px;
+    margin-left: 10px;
+    float: left;
+    height: 650px;
+}
+.form{
+	margin-left:100px;
+	width:600px;
+	margin-top:40px;
+	font-size: 13px;
+	float: left;
+	height: 650px;
+}
+.ttr{
+	height: 50px;
+	width: 80px;
+	text-align: center;
+}
+.ttd{
+	width:350px;
+	height: 50px;
+}
+.iframe {
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
+.left-icon {
+    width: 12%;
+}
+
+.left-icon-child {
+    margin-left: 15%;
+    width: 10%;
+}
+
+.left-title {
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+
+
+
+.accordion-toggle {
+    background-image: url(../img/shop_img/left-title-bg.png);
+}
+
+    .accordion-toggle:hover {
+        background-image: url(../img/shop_img/left-title-bg-h.png);
+        text-decoration: none;
+        color: white !important;
+    }
+
+.accordion-inner:hover {
+    background-image: url(../img/shop_img/left-title-bg-h.png);
+    text-decoration: none;
+     background-color: #fff;
+    cursor: pointer;
+}
+
+.content {
+    margin;
+}
